@@ -28,12 +28,11 @@ assignees: ''
 
 (Please edit the following list if necessary to indicate the actual checklists to be used.)
 
-* [Architecture](https://www.radgrad.org/docs/developers/checklists/architecture-checklist)
-* [Design](https://www.radgrad.org/docs/developers/checklists/design-checklist)
-* [User Interface](https://www.radgrad.org/docs/developers/checklists/ui-checklist)
-* [JS and TS](https://www.radgrad.org/docs/developers/checklists/js-ts-checklist)
-* [React](https://www.radgrad.org/docs/developers/checklists/react-checklist)
-* [Testing](https://www.radgrad.org/docs/developers/checklists/testing-checklist)
+* [Architecture](../tree/master/checklists/architecture-checklist.md)
+* [Design](../tree/master/checklists/design-checklist.md)
+* [JS](../tree/master/checklists/js-checklist.md)
+* [React](../tree/master/checklists/react-checklist.md)
+* [Testing](../tree/master/checklists/testing-checklist.md)
 
 ## Due date
 
@@ -41,4 +40,4 @@ assignees: ''
 
 ## For more information
 
-The review process is documented at: https://www.radgrad.org/docs/developers/reviews/overview
+The review process is documented at: http://courses.ics.hawaii.edu/ics414s21/morea/review/reading-idpm-review.html
