@@ -31,6 +31,7 @@ assignees: ''
 * [Architecture](../tree/master/checklists/architecture-checklist.md)
 * [Design](../tree/master/checklists/design-checklist.md)
 * [JS](../tree/master/checklists/js-checklist.md)
+* [Meteor](../tree/master/checklists/meteor-checklist.md)
 * [React](../tree/master/checklists/react-checklist.md)
 * [Testing](../tree/master/checklists/testing-checklist.md)
 
