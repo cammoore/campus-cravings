@@ -20,9 +20,9 @@ Can you use object deconstruction?
 
 Can you use arrow functions? Note that arrow functions are normally better, except in Mocha tests.
 
-### JS-06: Avoid lodash map, filter, etc.
+### JS-06: Avoid lodash or underscore map, filter, etc.
 
-ES6 includes many of the lodash functions. Use the built-in function rather than the lodash version when possible.
+ES6 includes many of the lodash or underscore functions. Use the built-in function rather than the lodash or underscore version when possible.
 
 ### JS-07: Avoid console.logs
 
